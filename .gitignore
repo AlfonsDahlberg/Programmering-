@@ -1,0 +1,4 @@
+# ingnorerar alla text filer
+
+*.txt
+in.py
